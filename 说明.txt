@@ -1,0 +1,4 @@
+socket.io版本要2.xx wesocket按照common中文件版本
+
+启动需要在socket文件夹下cmd中nodemon index启动后端
+然后在代码编辑器中启动服务
